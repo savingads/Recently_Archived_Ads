@@ -5,7 +5,7 @@ Google Sheet (most recent version): [Ads Recently Archived From Live Web](https:
 
 This spreadsheet contains three sheets:
 1. Overview_Table
-    - This sheet includes an overview information like:
+    - This sheet includes overview information like:
         -  The web pages that were archived
         -  The tools used to archive and replay each web page
         -  The number of ads archived
