@@ -1,7 +1,7 @@
 # Recently Archived Ads
 None of these files are finalized yet. The links to the most recent version of these documents are provided.
 
-## Ads Recently_Archived.xlsx
+## Ads_Recently_Archived.xlsx
 Google Sheet (most recent version): [Ads Recently Archived From Live Web](https://docs.google.com/spreadsheets/d/1wkU4JNaZ7u7F5AWyRMEqXKTZ7CeSmM6BfBSpP0XFZzE/edit?usp=sharing)
 
 This spreadsheet contains three sheets:
@@ -39,3 +39,9 @@ Google Doc (most recent version): [All Comments For Archived Ads Spreadsheet](ht
 
 This document contains most of the notes associated with the advertisments that were archived.
 
+## All_Ads_Seperated_By_Crawler.tsv
+Google Sheet (most recent version): [All_Ads_Seperated_By_Crawler](https://docs.google.com/spreadsheets/d/1wkU4JNaZ7u7F5AWyRMEqXKTZ7CeSmM6BfBSpP0XFZzE/edit#gid=421299840)
+
+This file contains details for each individual ad. It contains the same information as the "All_Ads_Seperated_By_Crawler" sheet in the "Ads_Recently_Archived.xlsx" file.
+
+This file is currently a .tsv, because no tabs are in the ad text fields and the special characters like commas and double quotes have not been escaped yet.
