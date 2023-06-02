@@ -34,7 +34,7 @@ This spreadsheet contains three sheets:
 5. Partially_Archived_Ads
     - Similar to the All_Ads_Seperated_By_Crawler sheet except these ads are not fully archived and are missing most of the resources needed when replaying the ad
 
-## All Comments_For_Archived_Ads Spreadsheet.pdf
+## All_Comments_For_Archived_Ads Spreadsheet.pdf
 Google Doc (most recent version): [All Comments For Archived Ads Spreadsheet](https://docs.google.com/document/d/1Vze0k3HUmhStlhbuL36ZTI34g6OngM1Ffog_PioM83g/edit?usp=sharing)
 
 This document contains most of the notes associated with the advertisments that were archived.
