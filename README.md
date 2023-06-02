@@ -1,4 +1,5 @@
 # Recently Archived Ads
+None of these files are finalized yet. The links to the most recent version of these documents are provided.
 
 ## Ads Recently_Archived.xlsx
 Google Sheet (most recent version): [Ads Recently Archived From Live Web](https://docs.google.com/spreadsheets/d/1wkU4JNaZ7u7F5AWyRMEqXKTZ7CeSmM6BfBSpP0XFZzE/edit?usp=sharing)
@@ -32,3 +33,9 @@ This spreadsheet contains three sheets:
             - Describes what could have prevented the ad from loading when replaying the containing web page
 5. Partially_Archived_Ads
     - Similar to the All_Ads_Seperated_By_Crawler sheet except these ads are not fully archived and are missing most of the resources needed when replaying the ad
+
+## All Comments_For_Archived_Ads Spreadsheet.pdf
+Google Doc (most recent version): [All Comments For Archived Ads Spreadsheet](https://docs.google.com/document/d/1Vze0k3HUmhStlhbuL36ZTI34g6OngM1Ffog_PioM83g/edit?usp=sharing)
+
+This document contains most of the notes associated with the advertisments that were archived.
+
