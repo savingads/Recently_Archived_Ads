@@ -1,6 +1,4 @@
 # Recently Archived Ads
-None of these files are finalized yet. The links to the most recent version of these documents are provided.
-
 ## Ads_Recently_Archived.xlsx
 Google Sheet (most recent version): [Ads Recently Archived From Live Web](https://docs.google.com/spreadsheets/d/1wkU4JNaZ7u7F5AWyRMEqXKTZ7CeSmM6BfBSpP0XFZzE/edit?usp=sharing)
 
