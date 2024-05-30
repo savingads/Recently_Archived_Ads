@@ -37,9 +37,7 @@ Google Doc (most recent version): [All Comments For Archived Ads Spreadsheet](ht
 
 This document contains most of the notes associated with the advertisments that were archived.
 
-## All_Ads.tsv
+## All_Ads.csv
 Google Sheet (most recent version): [All_Ads](https://docs.google.com/spreadsheets/d/1wkU4JNaZ7u7F5AWyRMEqXKTZ7CeSmM6BfBSpP0XFZzE/edit#gid=909840126)
 
 This file contains details for each individual ad. It contains the same information as the "All_Ads" sheet in the "Ads_Recently_Archived.xlsx" file.
-
-This file is currently a .tsv, because no tabs are in the ad text fields and the special characters like commas and double quotes have not been escaped yet.
